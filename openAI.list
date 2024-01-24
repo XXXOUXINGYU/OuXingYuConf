@@ -34,15 +34,3 @@ DOMAIN-SUFFIX,sentry.io,OpenAi
 DOMAIN-SUFFIX,stripe.com,OpenAi
 DOMAIN-SUFFIX,turn.livekit.cloud,OpenAi
 DOMAIN-KEYWORD,openai,OpenAi
-IP-ASN,20473,no-resolve,OpenAi
-IP-CIDR,24.199.123.28/32,no-resolve,OpenAi
-IP-CIDR,64.23.132.171/32,no-resolve,OpenAi
-
-
-
-
-
-
-
-
-
