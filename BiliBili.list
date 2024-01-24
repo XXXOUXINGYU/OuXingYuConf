@@ -126,11 +126,3 @@ USER-AGENT,*bili*,哔哩哔哩
 USER-AGENT,Bilibili*,哔哩哔哩
 USER-AGENT,bili*,哔哩哔哩
 USER-AGENT,bili-inter*,哔哩哔哩
-IP-CIDR,106.75.74.76/32,no-resolve,哔哩哔哩
-IP-CIDR,111.206.25.147/32,no-resolve,哔哩哔哩
-IP-CIDR,119.3.238.64/32,no-resolve,哔哩哔哩
-IP-CIDR,120.92.108.182/32,no-resolve,哔哩哔哩
-IP-CIDR,120.92.113.99/32,no-resolve,哔哩哔哩
-IP-CIDR,120.92.153.217/32,no-resolve,哔哩哔哩
-IP-CIDR,134.175.207.130/32,no-resolve,哔哩哔哩
-IP-CIDR,203.107.1.0/24,no-resolve,哔哩哔哩
