@@ -1,0 +1,48 @@
+# NAME: OpenAI,OpenAi
+# AUTHOR: blackmatrix7,OpenAi
+# REPO: https://github.com/blackmatrix7/ios_rule_script,OpenAi
+# UPDATED: 2024-01-08 16:02:56,OpenAi
+# DOMAIN: 2,OpenAi
+# DOMAIN-KEYWORD: 1,OpenAi
+# DOMAIN-SUFFIX: 23,OpenAi
+# IP-ASN: 1,OpenAi
+# IP-CIDR: 2,OpenAi
+# TOTAL: 29,OpenAi
+DOMAIN,browser-intake-datadoghq.com,OpenAi
+DOMAIN,static.cloudflareinsights.com,OpenAi
+DOMAIN-SUFFIX,ai.com,OpenAi
+DOMAIN-SUFFIX,algolia.net,OpenAi
+DOMAIN-SUFFIX,api.statsig.com,OpenAi
+DOMAIN-SUFFIX,auth0.com,OpenAi
+DOMAIN-SUFFIX,cdn.cloudflare.net,OpenAi
+DOMAIN-SUFFIX,challenges.cloudflare.com,OpenAi
+DOMAIN-SUFFIX,chatgpt.livekit.cloud,OpenAi
+DOMAIN-SUFFIX,client-api.arkoselabs.com,OpenAi
+DOMAIN-SUFFIX,events.statsigapi.net,OpenAi
+DOMAIN-SUFFIX,featuregates.org,OpenAi
+DOMAIN-SUFFIX,host.livekit.cloud,OpenAi
+DOMAIN-SUFFIX,identrust.com,OpenAi
+DOMAIN-SUFFIX,intercom.io,OpenAi
+DOMAIN-SUFFIX,intercomcdn.com,OpenAi
+DOMAIN-SUFFIX,launchdarkly.com,OpenAi
+DOMAIN-SUFFIX,oaistatic.com,OpenAi
+DOMAIN-SUFFIX,oaiusercontent.com,OpenAi
+DOMAIN-SUFFIX,observeit.net,OpenAi
+DOMAIN-SUFFIX,poe.com,OpenAi
+DOMAIN-SUFFIX,segment.io,OpenAi
+DOMAIN-SUFFIX,sentry.io,OpenAi
+DOMAIN-SUFFIX,stripe.com,OpenAi
+DOMAIN-SUFFIX,turn.livekit.cloud,OpenAi
+DOMAIN-KEYWORD,openai,OpenAi
+IP-ASN,20473,no-resolve,OpenAi
+IP-CIDR,24.199.123.28/32,no-resolve,OpenAi
+IP-CIDR,64.23.132.171/32,no-resolve,OpenAi
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+# NAME: Bing,微软Bing
+# AUTHOR: blackmatrix7,微软Bing
+# REPO: https://github.com/blackmatrix7/ios_rule_script,微软Bing
+# UPDATED: 2024-01-08 16:02:56,微软Bing
+# DOMAIN-SUFFIX: 23,微软Bing
+# TOTAL: 23,微软Bing
+DOMAIN-SUFFIX,bing.com,微软Bing
+DOMAIN-SUFFIX,bing.com.cn,微软Bing
+DOMAIN-SUFFIX,bing.net,微软Bing
+DOMAIN-SUFFIX,bingads.com,微软Bing
+DOMAIN-SUFFIX,bingagencyawards.com,微软Bing
+DOMAIN-SUFFIX,bingapistatistics.com,微软Bing
+DOMAIN-SUFFIX,bingsandbox.com,微软Bing
+DOMAIN-SUFFIX,bingvisualsearch.com,微软Bing
+DOMAIN-SUFFIX,bingworld.com,微软Bing
+DOMAIN-SUFFIX,bluehatnights.com,微软Bing
+DOMAIN-SUFFIX,dictate.ms,微软Bing
+DOMAIN-SUFFIX,ditu.live.com,微软Bing
+DOMAIN-SUFFIX,flipwithsurface.com,微软Bing
+DOMAIN-SUFFIX,masalladeloslimites.com,微软Bing
+DOMAIN-SUFFIX,microsoft-give.com,微软Bing
+DOMAIN-SUFFIX,microsoftcloudsummit.com,微软Bing
+DOMAIN-SUFFIX,microsoftdiplomados.com,微软Bing
+DOMAIN-SUFFIX,microsoftlatamholiday.com,微软Bing
+DOMAIN-SUFFIX,microsoftmxfilantropia.com,微软Bing
+DOMAIN-SUFFIX,microsoftpartnersolutions.com,微软Bing
+DOMAIN-SUFFIX,msunlimitedcloudsummit.com,微软Bing
+DOMAIN-SUFFIX,renovacionoffice.com,微软Bing
+DOMAIN-SUFFIX,sprinklesapp.com,微软Bing

@@ -1,0 +1,50 @@
+# NAME: Apple,苹果服务
+# AUTHOR: blackmatrix7,苹果服务
+# REPO: https://github.com/blackmatrix7/ios_rule_script,苹果服务
+# UPDATED: 2024-01-24 03:00:23,苹果服务
+# DOMAIN: 9,苹果服务
+# DOMAIN-KEYWORD: 7,苹果服务
+# DOMAIN-SUFFIX: 1549,苹果服务
+# IP-CIDR: 10,苹果服务
+# USER-AGENT: 23,苹果服务
+# TOTAL: 1598,苹果服务
+DOMAIN-KEYWORD,apple-support.akadns.net,苹果服务
+DOMAIN-KEYWORD,apple.com.akadns.net,苹果服务
+DOMAIN-KEYWORD,apple.com.edgekey.net,苹果服务
+DOMAIN-KEYWORD,buy.itunes.apple.com,苹果服务
+DOMAIN-KEYWORD,smp-device,苹果服务
+DOMAIN-KEYWORD,testflight,苹果服务
+DOMAIN-KEYWORD,icloud.com.akadns.net,苹果服务
+USER-AGENT,*FindMyiPhone?,苹果服务
+USER-AGENT,*Music?,苹果服务
+USER-AGENT,*WeatherFoundation*,苹果服务
+USER-AGENT,*com.apple.Maps?,苹果服务
+USER-AGENT,*com.apple.mobileme.fmip1,苹果服务
+USER-AGENT,FMDClient*,苹果服务
+USER-AGENT,FMFD*,苹果服务
+USER-AGENT,FindMyFriends*,苹果服务
+USER-AGENT,FindMyiPhone*,苹果服务
+USER-AGENT,Maps*,苹果服务
+USER-AGENT,Wallet*,苹果服务
+USER-AGENT,com.apple.Maps,苹果服务
+USER-AGENT,com.apple.appstored*,苹果服务
+USER-AGENT,fmflocatord*,苹果服务
+USER-AGENT,geod*,苹果服务
+USER-AGENT,locationd*,苹果服务
+USER-AGENT,passd*,苹果服务
+USER-AGENT,Music*,苹果服务
+USER-AGENT,AppleNews*,苹果服务
+USER-AGENT,com.apple.news*,苹果服务
+USER-AGENT,AppleTV*,苹果服务
+USER-AGENT,com.apple.trustd*,苹果服务
+USER-AGENT,com.apple.tv*,苹果服务
+IP-CIDR,139.178.128.0/18,no-resolve,苹果服务
+IP-CIDR,144.178.0.0/19,no-resolve,苹果服务
+IP-CIDR,144.178.36.0/22,no-resolve,苹果服务
+IP-CIDR,144.178.48.0/20,no-resolve,苹果服务
+IP-CIDR,17.0.0.0/8,no-resolve,苹果服务
+IP-CIDR,192.35.50.0/24,no-resolve,苹果服务
+IP-CIDR,198.183.17.0/24,no-resolve,苹果服务
+IP-CIDR,205.180.175.0/24,no-resolve,苹果服务
+IP-CIDR,63.92.224.0/19,no-resolve,苹果服务
+IP-CIDR,65.199.22.0/23,no-resolve,苹果服务
